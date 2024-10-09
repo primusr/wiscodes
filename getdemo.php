@@ -104,7 +104,7 @@
 
 <li>Step 2: PHP Code for Database Search Using $_GET</li>
 <p>Below is a PHP script that connects to the database and allows you to search for book titles using a query parameter.</p>
-<a href="search.php">Source Code</a>
+<a href="search.txt">Source Code</a>
 
 
 <h3>
